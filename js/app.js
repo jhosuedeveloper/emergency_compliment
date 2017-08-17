@@ -1,4 +1,4 @@
 angular
-.module('emergencyComp',[
+.module('angularComp',[
   'ui.router'
 ])
