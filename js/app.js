@@ -1,4 +1,4 @@
 angular
-.module('compliments',[
+.module('angularComp',[
   'ui.router'
 ])
